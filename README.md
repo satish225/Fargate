@@ -49,7 +49,7 @@ Note: We have complete setup for cluster,github, codebuild( pull src code from g
 k. code pipeline - Create code pipeline 
 	
 =================================================================================
-************Application is successfully deployed on ECS Fargate using CI/CD******************
+************Application is successfully deployed on ECS Fargate using CI/CD*****************
 
 
 
