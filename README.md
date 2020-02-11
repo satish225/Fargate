@@ -1,5 +1,5 @@
 AWS ECS Fargate integration with AWS code pipeline.
-POC by Venkatesh Singu (1066099)
+POC by Shivakarthik (1085346)
 
 AWS Fargate is a compute engine for Amazon ECS that allows you to run containers without having to manage servers or clusters
 
